@@ -101,7 +101,7 @@ public class ItemEvents implements Listener {
                 //player.sendMessage("New Durability: "+Integer.toString(Math.round(((float)fuel / maxFuel)*80)));
                 //player.sendMessage("New Damage: "+Integer.toString(Math.round(80-(((float)fuel / maxFuel)*80))));
                 ((Damageable) meta).setDamage(Math.round(80-(((float)fuel / maxFuel)*80)));
-                //player.getInventory().getChestplate().setItemMeta(meta);
+                player.getInventory().getChestplate().setItemMeta(meta);
 
 
 

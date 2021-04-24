@@ -11,7 +11,7 @@ public class SpacePlugin extends JavaPlugin {
     @Override
     public void onEnable() {
         // Send enable message
-        getServer().getConsoleSender().sendMessage(ChatColor.BLUE+"[SpaceCustomItems]: Plugin Enabled");
+        getServer().getConsoleSender().sendMessage(ChatColor.BLUE+"[SpacePlugin]: Plugin Enabled");
         ItemManager.init();
         getServer().getPluginManager().registerEvents(new ItemEvents(), this);
         getServer().getPluginManager().registerEvents(new DoubleJumpEvents(), this);
@@ -23,7 +23,7 @@ public class SpacePlugin extends JavaPlugin {
     @Override
     public void onDisable() {
         // Send disable message
-        getServer().getConsoleSender().sendMessage(ChatColor.BLUE+"[SpaceCustomItems]: Plugin Disabled");
+        getServer().getConsoleSender().sendMessage(ChatColor.BLUE+"[SpacePlugin]: Plugin Disabled");
 
     }
 
