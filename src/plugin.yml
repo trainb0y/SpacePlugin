@@ -1,0 +1,21 @@
+name: SpacePlugin
+version: 0.1.0
+author: trainb0y
+main: com.trainb0y.spaceplugin.SpacePlugin
+api-version: 1.16
+commands:
+  givewand:
+    description: BOOM STICK
+    usage: /<command>
+
+  giveblaster:
+    description: gives caller a blaster
+    usage: /<command>
+
+  givehandcannon:
+    description: gives caller a hand cannon
+    usage: /<command>
+
+  givejetpack:
+    description: gives caller a jetpack
+    usage: /<command>
