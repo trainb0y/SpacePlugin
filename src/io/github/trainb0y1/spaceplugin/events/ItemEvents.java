@@ -1,6 +1,6 @@
-package com.trainb0y.spaceplugin.events;
+package io.github.trainb0y1.spaceplugin.events;
 
-import com.trainb0y.spaceplugin.items.ItemManager;
+import io.github.trainb0y1.spaceplugin.items.ItemManager;
 import org.bukkit.*;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.LivingEntity;

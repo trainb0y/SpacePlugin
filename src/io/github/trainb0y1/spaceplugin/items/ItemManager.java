@@ -1,4 +1,4 @@
-package com.trainb0y.spaceplugin.items;
+package io.github.trainb0y1.spaceplugin.items;
 
 import org.bukkit.Material;
 import org.bukkit.enchantments.Enchantment;

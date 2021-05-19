@@ -1,4 +1,4 @@
-package com.trainb0y.spaceplugin.events;
+package io.github.trainb0y1.spaceplugin.events;
 
 import org.bukkit.GameMode;
 import org.bukkit.Material;

@@ -1,6 +1,6 @@
-package com.trainb0y.spaceplugin.commands;
+package io.github.trainb0y1.spaceplugin.commands;
 
-import com.trainb0y.spaceplugin.items.ItemManager;
+import io.github.trainb0y1.spaceplugin.items.ItemManager;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

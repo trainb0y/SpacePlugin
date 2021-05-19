@@ -1,9 +1,9 @@
-package com.trainb0y.spaceplugin;
+package io.github.trainb0y1.spaceplugin;
 
-import com.trainb0y.spaceplugin.commands.ItemCommands;
-import com.trainb0y.spaceplugin.events.DoubleJumpEvents;
-import com.trainb0y.spaceplugin.events.ItemEvents;
-import com.trainb0y.spaceplugin.items.ItemManager;
+import io.github.trainb0y1.spaceplugin.commands.ItemCommands;
+import io.github.trainb0y1.spaceplugin.events.DoubleJumpEvents;
+import io.github.trainb0y1.spaceplugin.events.ItemEvents;
+import io.github.trainb0y1.spaceplugin.items.ItemManager;
 import org.bukkit.ChatColor;
 import org.bukkit.plugin.java.JavaPlugin;
 

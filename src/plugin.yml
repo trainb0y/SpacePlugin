@@ -1,7 +1,7 @@
 name: SpacePlugin
 version: 0.1.0
 author: trainb0y
-main: com.trainb0y.spaceplugin.SpacePlugin
+main: SpacePlugin
 api-version: 1.16
 commands:
   givewand:
