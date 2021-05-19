@@ -45,7 +45,7 @@ public class ItemManager {
 
     }
     private static void createBlaster() {
-        ItemStack item = new ItemStack(Material.BONE,1);
+        ItemStack item = new ItemStack(Material.DIAMOND_HOE,1);
         ItemMeta meta = item.getItemMeta();
         meta.setDisplayName("§6Blaster");
         List<String> lore = new ArrayList<>();
@@ -60,7 +60,7 @@ public class ItemManager {
 
     }
     private static void createHandCannon() {
-        ItemStack item = new ItemStack(Material.BONE,1);
+        ItemStack item = new ItemStack(Material.DIAMOND_HOE,1);
         ItemMeta meta = item.getItemMeta();
         meta.setDisplayName("§6Hand Cannon");
         List<String> lore = new ArrayList<>();
